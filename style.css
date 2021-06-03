@@ -37,7 +37,7 @@ ul li a{
     text-transform: uppercase;
 }
 
-
+a
 .adaul:active, .adaul:hover{
     background-color: #d62b2b;
     transition: .5s;
@@ -45,24 +45,6 @@ ul li a{
 .adaul:not(:hover){
     color:#000000;
     background-color: none;
-    transition: .5s;
-}
-.a{
-    position: absolute;
-    font-size: 17px;
-    font-family: 'Changa One', cursive;
-    left: 10px;
-    color:#000000;
-    cursor: pointer;
-
-}
-.a:hover{
-    cursor: pointer;
-    font-size: 30px;
-    transition: .5s;
-}
-.a:not(:hover){
-
     transition: .5s;
 }
 
